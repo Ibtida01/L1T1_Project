@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1676374179 source:d:\igfx\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1676270091 d:\igfx\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1462159876 source:d:\igfx\mousedemo.cpp
+	"iGraphics.h"
+
+1675861175 source:d:\igfx\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 d:\igfx\gl.h
+
+1677510371 source:d:\igfx\imain__backup.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<Windows.h>
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1676169242 d:\igfx\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1677610413 source:d:\igfx\testing.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<Windows.h>
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1563893532 d:\igfx\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 d:\igfx\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 source:d:\igfx\textinputdemo.cpp
+	"iGraphics.h"
+
